@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Eurostile";
-  src: url('EurostileExtendedRegular.ttf') format('truetype');
-  src: url('EurostileExtendedRegular.woff') format('truetype');
+  src: url('/EurostileExtendedRegular.ttf') format('truetype');
+  src: url('/EurostileExtendedRegular.woff') format('truetype');
 }
 
 * {
